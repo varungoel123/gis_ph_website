@@ -47,11 +47,32 @@ Please note that I have not worked with data from all of these sources, so I mig
 
 ##### Resources
 
+-   [CDC Places Data Repository ](https://www.cdc.gov/places/index.html)
 -   WHO, Global Health Observatory Data Repository, [By Theme](http://apps.who.int/gho/data/node.home), [By Country](https://www.who.int/gho/countries/en/)
 -   [WHO, Mortality Database](http://apps.who.int/healthinfo/statistics/mortality/whodpms/)
 -   [US National Center for Health Statistics (NCHS)](https://www.cdc.gov/nchs/data_access/ftp_data.htm) (mostly survey data)
 -   [US Health Resources and Services Administration Data Warehouse](https://data.hrsa.gov/)
 -   [National Information Center on Health Services Research and Health Care Technology (NICHSR) List of Databases/Repositories](https://hsric.nlm.nih.gov/hsric_public/#164Databases/Repositories) (You will have to go to each and actually find the useable data. I have used a few of the data sources on this list, and navigating their website to get to the data download can be somewhat tedious. This could be a good place to begin your search though.)
+
+<br>
+
+## Consolidated Data Portals
+
+These data portals have fantastic integrated resources for various health, geographic and other demographic, social data etc. If you absolutely dont have any data or project idea that you are interested in, I encourage you to instead use these portals. You have free access to these datasets through USC!
+
+##### Resources
+
+-   [Policy Map ](https://www.policymap.com)
+-   [Social Explorer](https://www.socialexplorer.com/home)
+-   [ArcGIS Living Atlas](https://livingatlas.arcgis.com/en/home/) 
+<br>
+
+## USC Library
+
+And finally, dont forget your own USC library which has several tremendous resources!
+
+-   [Geography Data Guide](https://guides.library.sc.edu/geography/datamaps)
+-   [Data Sets and Statistics Guide](https://guides.library.sc.edu/data-and-statistics)
 
 <br>
 
