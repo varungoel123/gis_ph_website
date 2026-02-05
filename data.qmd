@@ -66,6 +66,9 @@ These data portals have fantastic integrated resources for various health, geogr
 -   [Social Explorer](https://www.socialexplorer.com/home)
 -   [ArcGIS Living Atlas](https://livingatlas.arcgis.com/en/home/) 
 <br>
+-   [IPUMS](https://www.ipums.org), This is consolidated Health, Geographic, and Demographic Data for both US and Global 
+
+
 
 ## USC Library
 
