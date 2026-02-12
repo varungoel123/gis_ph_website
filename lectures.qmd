@@ -36,7 +36,7 @@ Note: password for files is provided on class piazza discussion board
 
 #### Week 6: Mapping Health data
 
--   [Mapping Health Data](./lectures/GEOG510_Lec10_MappingHealData.pdf)
+-   [Mapping Health Data](./lectures/GEOG510_Lec10_MappingHealthData.pdf)
 
 -   [Map Composition and Design](./lectures/GEOG510_Lec11_MapDesign.pdf)
 
