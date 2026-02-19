@@ -1,9 +1,9 @@
 ---
 title: 'Basic GIS Operations: Field Calculator, Buffer, Select, and Summarize'
 author:
-- In Class Group Exercise \#5 (mini assignment)\newline
-- 50 points
-- Due March 7th, 11:59 PM
+- In Class Exercise \#5 \newline
+- 30 points
+- Due March 1st, 11:59 PM
 - GEOG 510, GIS and Spatial Analyis in Public Health \newline
 - Varun Goel
 
