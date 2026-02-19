@@ -40,13 +40,16 @@ Note: password for files is provided on class piazza discussion board
 
 -   [Map Composition and Design](./lectures/GEOG510_Lec11_MapDesign.pdf)
 
-#### Week 7: Queries, Field Calculations, Patterns and Processes
+#### Week 7: Queries, Field Calculations, Distance and Buffers
 
 -   [Queries and Field Calculations](./lectures/GEOG510_Lec12_QueryFieldCalc.pdf)
 
--   [Introduction to Spatial Variation and Clustering](./lectures/GEOG510_Lec14_SpVarClustering.pdf)
+-   [Distance and Buffers](./lectures/GEOG510_Lec13_DistBuff.pdf)
+
 
 #### Week 8: Spatial Neighbors, Spatial Clustering
+
+-   [Introduction to Spatial Variation and Clustering](./lectures/GEOG510_Lec14_SpVarClustering.pdf)
 
 -   [Spatial Neighbors](./lectures/GEOG510_Lec15_SpNeighbors.pdf)
 
