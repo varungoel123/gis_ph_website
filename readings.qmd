@@ -48,7 +48,9 @@ Note: The password for all password protected content is on Piazza
 
 #### Pattern and Process; Spatial Neighbors
 
--   -   [O’Sullivan, D., & Unwin, D. J. (2010). Geographic Information Analysis (2nd ed.). Hoboken, NJ: John Wiley & Sons, Inc., Chapter 4](./readings/OSullivan_2010_GIA_Chp4.pdf)
+-    [O’Sullivan, D., & Unwin, D. J. (2010). Geographic Information Analysis (2nd ed.). Hoboken, NJ: John Wiley & Sons, Inc., Chapter 4](./readings/OSullivan_2010_GIA_Chp4.pdf)
+
+-   [Application of Spatial Methods in Rural Cancer Control Research in the United States](./readings/spatial_methods_ruralCancer.pdf)
 
 ------------------------------------------------------------------------
 
