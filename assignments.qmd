@@ -12,8 +12,8 @@ date-format: medium
 
 -   [Assignment 2: Working with spatial data (due thursday, Feb 26 before class)](./assignments/assignment2.qmd)
 
--   [Assignment 3: Applied Autocorrelation/Clustering ](./assignments/assignment3.qmd)
+-   [Assignment 3: Applied Autocorrelation/Clustering](./assignments/assignment3.qmd) (due Tuesday, March 30 before class)
 
--   [Assignment 4: Spatial Regression ](./assignments/assignment4.qmd)
+-   [Assignment 4: Spatial Regression](./assignments/assignment4.qmd)
 
 ------------------------------------------------------------------------

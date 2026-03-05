@@ -1,8 +1,9 @@
 ---
 title: 'GEOG 510: Assignment #3'
 author:
-- Applied Overlay and Clusters/Autocorrelation, 100 points \newline
+- Applied Overlay and Clusters/Autocorrelation, 125 points \newline
 - GEOG 510, GIS and Spatial Analysis in Public Health \newline
+- Due before class on Tuesday, **March 31, 2026**
 - Varun Goel
 date: 'Updated: `r format(Sys.Date(), "%B %d, %Y")`'
 output:
