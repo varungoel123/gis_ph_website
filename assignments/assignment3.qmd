@@ -156,7 +156,7 @@ One nice thing that GeoDa does is not “expect” that your data are normally d
 
 ------------------------------------------------------------------------
 
-##### **Question #4**: Provide the three values from Step 16 and a quick description of each (proving to me that you understand what each means). Use the output to briefly answer (in 3-4 sentences), Are PME Rates in 2015 in California spatially clustered? Are these results important? (hint, examine the **magnitude** of the Moran's I value)
+##### **Question #4**: Provide the three values from Step 19 and a quick description of each (proving to me that you understand what each means). Use the output to briefly answer (in 3-4 sentences), Are PME Rates in 2015 in California spatially clustered? Are these results important? (hint, examine the **magnitude** of the Moran's I value)
 
 ------------------------------------------------------------------------
 

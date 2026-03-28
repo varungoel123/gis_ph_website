@@ -54,7 +54,7 @@ If you want to follow along, the [data are located here](https://drive.google.co
 4.  Click the button with the three little dots for Population File and select `NC_ZIP_Lyme_2016_2018.dbf`. Click Next. In the popup window:
 
 -   Choose [ZIP_CODE]{.underline} for Location or Identifier
--   Choose [POP20]{.underline} for Number of Cases
+-   Choose [POP20]{.underline} for Population
 -   Click Next, then click Next again
 -   Save the imported input file as `NC_ZIP_Lyme_2016_2018.pop`, then click Import.
 
