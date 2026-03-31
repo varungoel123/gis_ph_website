@@ -273,6 +273,7 @@ div.highlightblock {
 <h3 class="anchored" data-anchor-id="clip-raster-to-study-area">Clip Raster to Study Area</h3>
 <ol start="6" type="1">
 <li>Navigate to Raster | Extraction | Clip Raster by Mask Layer. Choose the QGIS GRASS IDW Difference layer as the Input layer and sc_counties_proj as the Mask layer. Uncheck “Match the extent of the clipped raster to the extent of the mask layer”. Check “Keep resolution of input raster”. Everything else can stay on the default values. Click Run. Give the output a readable name.</li>
+<li>You might notice that you get an error such as “clipping Error 1: Cutline polygon is invalid” when you run the clipping tool in step 6. This can happen due to some wierd geometries in vector data. To remedy this, you can run the Fix Geometry tool in the Processing toolbox first and then run your analysis on the fixed file. Hope this will help you in your final projects if you run into geometry errors.</li>
 </ol>
 </section>
 <section id="get-statistics" class="level3">
