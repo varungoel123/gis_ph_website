@@ -3,6 +3,7 @@ title: 'GEOG 510: Assignment #4'
 author:
 - Spatial Regression, 150 points points \newline
 - GEOG 510, GIS & Spatial Analysis in Public Health \newline
+- Due by **April 30, 2026**
 - Varun Goel
 date: 'Updated: `r format(Sys.Date(), "%B %d, %Y")`'
 output:
@@ -34,7 +35,7 @@ library(kableExtra)
 
 ------------------------------------------------------------------------
 
-This assignment is split into two parts. In the first part of this assignment, you will be working with hospital utilization (Zip Code level polygon data) to conduct a basic spatial regression analysis in GeoDa. In the second part, you will be asked to formulate a question for your final project that can be asked through using multiple/Spatial Regression. Please at least skim through the entire assignment document before beginning.
+This assignment is split into two parts. In the first part of this assignment, you will be working with hospital utilization (Zip Code level polygon data) to conduct a basic spatial regression analysis in GeoDa. In the second part, you will be asked to formulate a question for your final project that can be asked through using multiple/Spatial Regression. You already completed Q 13 and Q 14 for part 2 in class so I will award you the 30 points even if you do not have your DAG handy. However I do want you to think about Q 15 for your final project. Please at least skim through the entire assignment document before beginning.
 
 On your computer, create a folder for Assignment #4 and a folder (inside of that one) to store data. [Download GEOG510_assignment4_data.zip from here](https://drive.google.com/file/d/1CQFKE0ODxHb6TQXEHuQQfhPZRo_c6k1A/view?usp=sharing) into the data folder and then unzip the contents.
 
@@ -44,7 +45,7 @@ Please save the file using the following naming format, **userid_assignment4.doc
 
 ------------------------------------------------------------------------
 
-## Part #1: Regression Analysis of Hospital Utilization Rates (120 points)
+## Part #1: Regression Analysis of Hospital Utilization Rates (110 points)
 
 In this analysis, you will be exploring the underlying factors that affect variations in hospital utilization (at a Zip Code level) in Michigan (data courtesy Dr. Paul Delamater). The main question is whether the availability of hospital beds (measured as spatial accessibility) affected hospital utilization while controlling for other potential confounders that could also affect variation in hospital utilization. You will be walking through a multiple spatial regression analysis in GeoDa to help answer this.
 
@@ -174,7 +175,7 @@ While writing this assignment, I found out that the authors of GeoDa say that ge
 
 ------------------------------------------------------------------------
 
-## Part #2: Thinking about regression for your project question (30 points)
+## Part #2: Thinking about regression for your project question (40 points)
 
 While it is not necessary to implement a regression analysis for your final projects, regression can be a powerful tool to test hypotheses related to spatial processes driving the observed spatial patterns of your health outcoome. In this part, you are asked to conceptualize what a regression analysis may look like for you, so that you can more confidently implement it in your final projects if you choose to.
 
